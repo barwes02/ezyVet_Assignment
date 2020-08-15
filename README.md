@@ -1,4 +1,4 @@
-﻿# ezyVet_Assignment
+﻿# ezyVet Assignment
 
 This was an assignment given by ezyVet apart of their interviewing process. It is a simple shopping cart application.
 
